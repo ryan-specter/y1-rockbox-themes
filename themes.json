@@ -981,17 +981,6 @@
             "searchText": "hogwarts (night) simple hogwarts castle night theme ravenblvk hogwarts__night"
         },
         {
-            "name": "Apple 4",
-            "folder": "HoloBubble",
-            "sourceType": "internal",
-            "sortName": "apple 4",
-            "searchText": "apple 4 customize your innioasis y1 with the holobubble theme. ange holobubble",
-            "author": "Ange",
-            "authorUrl": "https://www.innioasis.com",
-            "description": "Customize your Innioasis Y1 with the HoloBubble theme.",
-            "screenshot": "./HoloBubble/cover.png"
-        },
-        {
             "name": "Apple 1",
             "folder": "HoloFacet",
             "author": "Ange",
@@ -2331,6 +2320,16 @@
             "sourceType": "internal",
             "sortName": "trueblackwhite",
             "searchText": "trueblackwhite trueblack & white theme. built upon u/neither-classic2058's yellowsub theme and sipped's black&white. deeper black and gohu font, more icon matching productofmytime trueblackwhite"
+        },
+        {
+            "name": "Turtle water chill",
+            "folder": "Turtle_water_chill",
+            "author": "albini",
+            "description": "A blank canvas to start. Drop in your own desktop_wallpaper.png and global_wallpaper.png images in the theme folder, or use the Photos feature on the Y1 to set your own wallpaper images.",
+            "screenshot": "./Turtle_water_chill/cover_Themeless.png",
+            "sourceType": "internal",
+            "sortName": "turtle water chill",
+            "searchText": "turtle water chill a blank canvas to start. drop in your own desktop_wallpaper.png and global_wallpaper.png images in the theme folder, or use the photos feature on the y1 to set your own wallpaper images. albini turtle_water_chill"
         },
         {
             "name": "Twilight",
