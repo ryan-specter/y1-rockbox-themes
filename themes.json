@@ -972,13 +972,13 @@
         {
             "name": "Apple 4",
             "folder": "HoloBubble",
-            "sourceType": "internal",
-            "sortName": "apple 4",
-            "searchText": "apple 4 customize your innioasis y1 with the holobubble theme. ange holobubble",
             "author": "Ange",
             "authorUrl": "https://www.innioasis.com",
             "description": "Customize your Innioasis Y1 with the HoloBubble theme.",
-            "screenshot": "./HoloBubble/cover.png"
+            "screenshot": "./HoloBubble/cover.png",
+            "sourceType": "internal",
+            "sortName": "apple 4",
+            "searchText": "apple 4 customize your innioasis y1 with the holobubble theme. ange holobubble"
         },
         {
             "name": "Apple 1",
