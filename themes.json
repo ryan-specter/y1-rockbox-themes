@@ -8,9 +8,7 @@
             "screenshot": "./2000s_spider-man/cover.png",
             "sourceType": "internal",
             "sortName": "cute core",
-            "searchText": "cute core blank template theme with full config coverage for easy customization. sophia 2000s_spider-man",
-            "authorUrl": "",
-            "externalDownloadUrl": ""
+            "searchText": "cute core blank template theme with full config coverage for easy customization. sophia 2000s_spider-man"
         },
         {
             "name": "ACmp3",
@@ -579,15 +577,16 @@
             "searchText": "echo vn theme mp3 theme based of the ui from the furry visual novel \"echo\" combatbreed echo_vn_theme"
         },
         {
-            "name": "Electra Heart - Marina and The Diamonds",
+            "name": "♡ ELECTRA HEART ♡",
             "folder": "Electra_Heart_-_Marina_and_The_Diamonds",
             "author": "ashotvmsi",
             "authorUrl": "https://www.instagram.com/ashotvmsi/",
-            "description": "MARINA (Marina and The Diamonds) - Electra Heart Theme mixed with early 2010's design system.",
+            "description": "MARINA (Marina and The Diamonds) - Electra Heart inspired theme, mixed with early 2010s design system. ♡",
             "screenshot": "./Electra_Heart_-_Marina_and_The_Diamonds/cover.png",
             "sourceType": "internal",
-            "sortName": "electra heart - marina and the diamonds",
-            "searchText": "electra heart - marina and the diamonds marina (marina and the diamonds) - electra heart theme mixed with early 2010's design system. ashotvmsi electra_heart_-_marina_and_the_diamonds"
+            "sortName": "♡ electra heart ♡",
+            "searchText": "♡ electra heart ♡ marina (marina and the diamonds) - electra heart inspired theme, mixed with early 2010s design system. ♡ ashotvmsi electra_heart_-_marina_and_the_diamonds",
+            "externalDownloadUrl": ""
         },
         {
             "name": "Electric Hues",
@@ -2116,23 +2115,23 @@
             "name": "test",
             "folder": "test_me",
             "author": "me",
-            "authorUrl": "https://www.innioasis.com",
             "description": "Download the test theme for Innioasis Y1 by me and personalize your player's look with curated UI assets.",
             "screenshot": "./test_me/cover.png",
             "sourceType": "internal",
             "sortName": "test",
-            "searchText": "test download the test theme for innioasis y1 by me and personalize your player's look with curated ui assets. me test_me"
+            "searchText": "test download the test theme for innioasis y1 by me and personalize your player's look with curated ui assets. me test_me",
+            "authorUrl": "https://www.innioasis.com"
         },
         {
             "name": "Teto",
             "folder": "Teto",
             "author": "Lezz",
-            "authorUrl": "https://www.innioasis.com",
             "description": "I LOVE TETO!!!! So i made a teto theme for the innioasis Y1. :3\nHope you guys like it!",
             "screenshot": "./Teto/cover.png",
             "sourceType": "internal",
             "sortName": "teto",
-            "searchText": "teto i love teto!!!! so i made a teto theme for the innioasis y1. :3\nhope you guys like it! lezz teto"
+            "searchText": "teto i love teto!!!! so i made a teto theme for the innioasis y1. :3\nhope you guys like it! lezz teto",
+            "authorUrl": "https://www.innioasis.com"
         },
         {
             "name": "TF2",
